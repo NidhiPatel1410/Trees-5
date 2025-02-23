@@ -4,7 +4,7 @@
 // found update the value of the second with the current root. And if second mismatch is not found that means two adjacent nodes were
 // swapped.
 
-// Time Complexity : O(n) - no. of nodes plus
+// Time Complexity : O(n) - no. of nodes
 // Space Complexity : O(H) - height of the tree - recursive stack space
 // Did this code successfully run on Leetcode : yes
 // Any problem you faced while coding this : no
